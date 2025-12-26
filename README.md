@@ -1,5 +1,5 @@
 # FreshMatch
-This work was created as a final project for CS50's introduction to databases with SQL.
+A relational database for managing food inventory, reducing waste, and linking ingredients to recipes.
 [Watch the project overview video](https://youtu.be/rdAv_ZFppDM)
 
 ## Purpose
